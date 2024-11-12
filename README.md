@@ -8,10 +8,9 @@
 
  🎯 Current Goals: I'm working on various projects to hone my skills in AI development, and I'm keen on contributing to open-source projects related to computer science and other.
  
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+🎹 Hobbies: interested in new thinks, and I enjoy exploring new tech trends.
 
+📫 Let's meet in: Email udaygowdans@gmail.com,4mu22cs092@mysururoyal.org
 <!---
 uday08-code/uday08-code is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
