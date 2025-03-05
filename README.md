@@ -6,7 +6,7 @@
  
  🧠 Interests : Gen AI , cloud computing,
 
- 🎯 Current Goals: I'm working on various projects to hone my skills in AI development, and I'm keen on contributing to open-source projects related to computer science and other.
+ 🎯 Current Goals: I'm working on various projects to hone my skills in AI development, and I'm keep on contributing to open-source projects related to computer science and other.
  
 🎹 Hobbies: interested in new thinks, and I enjoy exploring new tech trends.
 
